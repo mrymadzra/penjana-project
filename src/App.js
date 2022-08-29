@@ -11,6 +11,7 @@ function App() {
   return (
     <div className=''>
       <p className='font-bold text-3xl text-center'>project Penjana</p>
+      <p>HELOOO</p>
       <button className='border-2' onClick={navigate('landing')}>Go to landing page</button>
     </div>
   );
